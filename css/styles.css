@@ -1,0 +1,205 @@
+/*********** Elements **********/
+
+body {
+    background-color: #eeeeee;
+    font-family: 'Kalam', cursive;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Neucha', cursive;
+    font-size: 5.625rem;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Neucha', cursive;
+    font-weight: normal;
+    }
+
+h3 {
+    font-family: 'Kalam', cursive;
+    }
+
+
+/************ Classes **********/
+   
+    /***** Top Container *****/
+.topcont {
+    background: linear-gradient(#92d7ff, #eeeeee);
+    height: 600px;
+    margin: 0;
+    padding-top: 50px;
+    position: relative;
+    }
+
+.desert01 {
+    position: absolute;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+    }
+
+.title {
+    color: #86300e;
+    padding-top: 100px;
+    }
+
+.subtitle {
+    color: #86300e;
+    font-size: 1.5rem;
+    margin-top: 5px;
+
+    }
+
+.cloud02 {
+    position: absolute;
+        top: 75px;
+        left: 75px;
+    }
+
+.cloud01 {
+    position: absolute;
+        top: 150px;
+        right: 75px;
+    }
+
+    /***** Middle Container *****/
+
+.midcont {
+    background-image: linear-gradient(#ffc46c, #ad631e);
+    height: 100%;
+    }
+
+.pfp {
+    margin: 50px auto 0 auto;
+    width: 25%;
+    }
+
+.profile-intro {
+    width: 75%;
+    line-height: 2;
+    margin: auto;
+    padding-bottom: 50px;
+    }
+
+.hello-txt {
+    color: #86300e;
+    font-size: 2.5rem;
+    }
+
+.my-skills-txt {
+    color: #86300e;
+    font-size: 2.5rem;
+    padding-top: 20px;
+    }
+
+.skill-row {
+    line-height: 2;
+    margin: 75px auto 0px;
+    padding-bottom: 25px;
+    text-align: left;
+    width: 50%;
+    }
+
+.caddie-logo {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+    }
+
+.cooking-pic {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+    }
+
+.coding-pic {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+    }
+
+.hr-new1 {
+    border: 10px solid #2c1906;
+    border-radius: 5px;
+    width: 75%;
+    }
+
+    /***** Bottom Container *****/
+
+.botcont {
+    background-color: #2c1906;
+    height: 100%;
+    margin: auto;
+    }
+.contact-me {
+    color: #ad631e;
+    width: 100%;
+    height: 100%;
+    padding-top: 10px;
+    }
+.footer-link {
+    color: #ad631e;
+    margin: auto 10px auto 10px;
+    }
+.footer-link:hover {
+        color: #ffc46c;
+        margin: auto 10px auto 10px;
+        }
+
+.btn {
+        background: #ffc46c;
+        background-image: -webkit-linear-gradient(top, #ffc46c, #ad631e);
+        background-image: -moz-linear-gradient(top, #ffc46c, #ad631e);
+        background-image: -ms-linear-gradient(top, #ffc46c, #ad631e);
+        background-image: -o-linear-gradient(top, #ffc46c, #ad631e);
+        background-image: linear-gradient(to bottom, #ffc46c, #ad631e);
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: 'Neucha', cursive;
+        color: #2c1906;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        }
+.btn:hover {
+        background: #f7d19c;
+        background-image: -webkit-linear-gradient(top, #f7d19c, #d68e4f);
+        background-image: -moz-linear-gradient(top, #f7d19c, #d68e4f);
+        background-image: -ms-linear-gradient(top, #f7d19c, #d68e4f);
+        background-image: -o-linear-gradient(top, #f7d19c, #d68e4f);
+        background-image: linear-gradient(to bottom, #f7d19c, #d68e4f);
+        text-decoration: none;
+        }
+
+.BR-tag {
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+
+.contact-me-msg {
+    width: 40%;
+    margin: 20px auto;
+}
+
+.contactme-button {
+    margin: 35px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***************** IDs ************/
